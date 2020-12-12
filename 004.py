@@ -10,5 +10,5 @@ def compute():
 				
 
 print(compute())
-
+ 
 #906609
